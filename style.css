@@ -97,3 +97,22 @@ h1{
     flex-direction: column;
     align-items: center;
 }
+/* Quote section */
+
+.quote{
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 50px 15rem;
+    margin: 5rem 0;
+}
+.q-text{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+}
+.q-author{
+    font-weight: 700;
+    text-align: right;
+}
